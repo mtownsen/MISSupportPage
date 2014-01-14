@@ -9,6 +9,7 @@
     <link href="Content/StyleSheet.css" rel="stylesheet" />
     <script src="scripts/jquery.js"></script>
     <script src="scripts/bootstrap.min.js"></script>
+
 </head>
 <body>
 <div id="wrap">
